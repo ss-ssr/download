@@ -9,3 +9,6 @@
 #### 下载【shadowsocks-mac】软件 [Mac点击下载](https://raw.githubusercontent.com/ss-ssr/download/master/shadowsocks-mac.zip)
 --------------------------------
 
+
+
+### [Shadowsocks 帮助导航 - Shadowsocks-Help ](https://shadowsocks-help.github.io/)
